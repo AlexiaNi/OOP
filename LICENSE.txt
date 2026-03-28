@@ -1,7 +1,3 @@
-Password Manager
-
-Password Manager-keeping your passwords safe and easy to access
-Copyright (C) <2022>  <Niculae Alexia>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
